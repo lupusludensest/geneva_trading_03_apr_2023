@@ -5,7 +5,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from random import randint
 from time import sleep
 from selenium.webdriver.common.action_chains import ActionChains
-from Screenshot import *
 import time
 
 # Locators
